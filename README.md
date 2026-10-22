@@ -1,10 +1,10 @@
 # Sci-Hub MCP Server — maintained fork
 
+**English** | [Simplified Chinese](README.zh-CN.md)
+
 A local MCP server for finding academic papers by DOI, title or keyword, retrieving Crossref metadata, and downloading PDFs.
 
 This fork of [JackKuo666/Sci-Hub-MCP-Server](https://github.com/JackKuo666/Sci-Hub-MCP-Server) fixes PDF discovery and download failures in the original implementation. It keeps the five MCP tool names and adds title disambiguation, mirror fallback and PDF content checks. See [CHANGELOG.md](CHANGELOG.md) and [NOTICE.md](NOTICE.md) for changes and attribution.
-
-**中文说明：** 这是原项目的修复版，支持 DOI、标题、关键词检索和 PDF 下载。安装使用 Python 3.12；代理按自己的网络配置，镜像可用性因网络而异。下面提供 Windows、Linux/macOS 和 Codex 配置示例。
 
 ## Requirements
 
