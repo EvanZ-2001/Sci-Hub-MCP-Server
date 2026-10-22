@@ -1,6 +1,6 @@
 # Sci-Hub MCP Server — maintained fork
 
-**English** | [Simplified Chinese](README.zh-CN.md)
+**English** | [简体中文](README.zh-CN.md)
 
 A local MCP server for finding academic papers by DOI, title or keyword, retrieving Crossref metadata, and downloading PDFs.
 

@@ -1,6 +1,6 @@
 # Sci-Hub MCP 服务端——维护分支
 
-[英文](README.md) | **简体中文**
+[English](README.md) | **简体中文**
 
 这是一个本地 MCP 服务端，可以按 DOI、标题或关键词查找学术论文，获取 Crossref 元数据，并下载 PDF。
 
