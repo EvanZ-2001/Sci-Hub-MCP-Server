@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.py[cod]
+.uv-cache/
+.tmp/
+
+# Personal settings and credentials
+settings.local.json
+.env
+.env.*
+
+# Local installation history and generated verification artifacts
+INSTALLATION.local.md
+backup-before-*/
+*-results.json
+pdf-content-checks.json
+*.log
+*.patch
+verification-preview/
+verification-output/
+probe_mirrors.py
+verify_installation.py
+verify_search_repair.py

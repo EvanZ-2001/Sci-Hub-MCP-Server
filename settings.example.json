@@ -1,0 +1,13 @@
+{
+  "mirrors": [
+    "https://www.sci-hub.st",
+    "https://sci-hub.su",
+    "https://www.sci-hub.ru",
+    "https://sci-hub.red",
+    "https://sci-hub.box",
+    "https://sci-hub.al",
+    "https://sci-hub.mk",
+    "https://sci-hub.ee"
+  ],
+  "proxy": ""
+}
